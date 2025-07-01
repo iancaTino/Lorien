@@ -19,7 +19,4 @@ Lorien é um site moderno e responsivo criado com HTML, CSS e Bootstrap 5, pensa
 - 🔤 Google Fonts (Inter)  
 
 ## Como rodar o projeto localmente
-
-1. Faça o clone do repositório:
-   ```bash
-   git clone https://github.com/iancaTino/Lorien.git
+https://lorien-three.vercel.app/
